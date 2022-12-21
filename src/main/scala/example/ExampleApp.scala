@@ -1,6 +1,6 @@
 package example
 
-class ExampleApp extends App {
+object ExampleApp extends App {
 
   println("Hello, World!")
 
