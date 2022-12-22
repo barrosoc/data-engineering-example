@@ -1,7 +1,3 @@
-package example
-
-object ExampleApp extends App {
-
-  println("Hello, World!")
-
+def main(args: Array[String]): Unit = {
+  println("Hello, world!")
 }
