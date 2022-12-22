@@ -1,4 +1,4 @@
-name := "data-engineering-prerequisites"
+name := "data-engineering-example"
 
 version := "0.1"
 
